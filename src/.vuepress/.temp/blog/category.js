@@ -1,0 +1,14 @@
+export const categoryMap = {"category":{"/":{"path":"/category/","map":{"使用指南":{"path":"/category/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/","keys":["v-6e19edb7","v-4e65ec78","v-c151bf32","v-438ffe52","v-1473bf53"]},"大数据":{"path":"/category/%E5%A4%A7%E6%95%B0%E6%8D%AE/","keys":["v-14583d80"]},"jvm":{"path":"/category/jvm/","keys":["v-1a9838da","v-39f91aea","v-52577d81","v-a0d678ee","v-0a5ac2c2","v-2a2cfc73","v-2cdd8cba"]},"netty":{"path":"/category/netty/","keys":["v-147bdc25","v-0d5e2b1b"]},"RocketMQ":{"path":"/category/rocketmq/","keys":["v-e8653bfa","v-770ec5d5","v-f5f52750"]},"utillity":{"path":"/category/utillity/","keys":["v-23454630"]},"utility":{"path":"/category/utility/","keys":["v-f5a36842"]},"Centos":{"path":"/category/centos/","keys":["v-7a9c31a0"]}}}},"tag":{"/":{"path":"/tag/","map":{"禁用":{"path":"/tag/%E7%A6%81%E7%94%A8/","keys":["v-4e65ec78"]},"文章加密":{"path":"/tag/%E6%96%87%E7%AB%A0%E5%8A%A0%E5%AF%86/","keys":["v-c151bf32"]},"Markdown":{"path":"/tag/markdown/","keys":["v-438ffe52"]},"页面配置":{"path":"/tag/%E9%A1%B5%E9%9D%A2%E9%85%8D%E7%BD%AE/","keys":["v-6e19edb7"]},"使用指南":{"path":"/tag/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/","keys":["v-6e19edb7"]},"hbase,nosql":{"path":"/tag/hbase_nosql/","keys":["v-14583d80"]},"Jvm堆内存":{"path":"/tag/jvm%E5%A0%86%E5%86%85%E5%AD%98/","keys":["v-1a9838da"]},"Jvm简介":{"path":"/tag/jvm%E7%AE%80%E4%BB%8B/","keys":["v-39f91aea"]},"JVM 性能分析":{"path":"/tag/jvm-%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90/","keys":["v-52577d81","v-a0d678ee","v-0a5ac2c2","v-2a2cfc73","v-2cdd8cba"]},"netty 入门":{"path":"/tag/netty-%E5%85%A5%E9%97%A8/","keys":["v-147bdc25","v-0d5e2b1b"]},"答疑":{"path":"/tag/%E7%AD%94%E7%96%91/","keys":["v-e8653bfa"]},"选型":{"path":"/tag/%E9%80%89%E5%9E%8B/","keys":["v-770ec5d5"]},"技术内幕":{"path":"/tag/%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95/","keys":["v-f5f52750"]},"文档":{"path":"/tag/%E6%96%87%E6%A1%A3/","keys":["v-23454630","v-f5a36842"]},"Centos 网络":{"path":"/tag/centos-%E7%BD%91%E7%BB%9C/","keys":["v-7a9c31a0"]}}}}};
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept();
+  if (__VUE_HMR_RUNTIME__.updateBlogCategory)
+    __VUE_HMR_RUNTIME__.updateBlogCategory(categoryMap);
+}
+
+if (import.meta.hot)
+  import.meta.hot.accept(({ categoryMap }) => {
+    __VUE_HMR_RUNTIME__.updateBlogCategory(categoryMap);
+  });
+
+
