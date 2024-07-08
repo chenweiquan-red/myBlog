@@ -9,39 +9,42 @@ export default navbar([
     prefix: "/posts/",
     children: [
       {
-        text: "苹果",
+        text: "java",
         icon: "pen-to-square",
-        prefix: "apple/",
+        prefix: "java/jvm/",
         children: [
-          { text: "苹果1", icon: "pen-to-square", link: "1" },
-          { text: "苹果2", icon: "pen-to-square", link: "2" },
-          "3",
-          "4",
+          { text: "jvm调优jcmd", icon: "pen-to-square", link: "jvm调优jcmd" },
+          { text: "jvm调优jstat", icon: "pen-to-square", link: "jvm调优jstat" }
         ],
       },
       {
-        text: "香蕉",
+        text: "大数据",
         icon: "pen-to-square",
-        prefix: "banana/",
+        prefix: "大数据/",
         children: [
           {
-            text: "香蕉 1",
+            text: "离线搭建CDH6",
             icon: "pen-to-square",
-            link: "1",
+            link: "离线搭建CDH6",
           },
           {
-            text: "香蕉 2",
+            text: "大数据杂谈",
             icon: "pen-to-square",
-            link: "2",
-          },
-          "3",
-          "4",
+            link: "大数据杂谈",
+          }
         ],
       },
-      { text: "樱桃", icon: "pen-to-square", link: "cherry" },
-      { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
-      "tomato",
-      "strawberry",
+      {
+        text: "中间件",
+        prefix: "中间件/netty/",
+        icon: "pen-to-square",
+        link: "netty初学"
+      },
+      { text: "开源项目",
+        prefix: "开源项目/",
+        icon: "pen-to-square",
+        link: "VEDIO"
+      },
     ],
   },
   {

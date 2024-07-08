@@ -1,6 +1,9 @@
 ---
-title: 指南
+title: 文档
+index: false
 icon: lightbulb
+category:
+  - 文档指南
 ---
 
 ## 功能亮点
