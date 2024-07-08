@@ -1,12 +1,32 @@
 ---
+#home: true
+#layout: BlogHome
+#icon: home
+#title: WQ-知识库
+#heroImage: /logo.svg
+#heroText: WQ-知识库
+#heroFullScreen: true
+#tagline: 念念不忘，终有回响
+
 home: true
-layout: BlogHome
+#layout: BlogHome
 icon: home
-title: 博客主页
-heroImage: /logo.svg
-heroText: 你博客的名称
+title: 项目主页
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+heroImage: https://oss-cwq.oss-rg-china-mainland.aliyuncs.com/wqknowledge/wqlogo.png
+#bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
+#bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
+bgImageStyle:
+  background-attachment: fixed
+heroText: WQ-知识库
+tagline: 分享技术，念念不忘，终有回响
+actions:
+  - text: 使用指南 💡
+    link: ./posts/zhinan.md
+    type: primary
+
+  - text: 文档
+    link: ./posts/wendang.md
 projects:
   - icon: project
     name: 项目名称
