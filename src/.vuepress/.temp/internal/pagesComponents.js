@@ -77,6 +77,16 @@ export const pagesComponents = {
   "v-7a9c31a0": defineAsyncComponent(() => import(/* webpackChunkName: "v-7a9c31a0" */"E:/gitlab/myBloggithub/src/.vuepress/.temp/pages/posts/运维/centos/centos网络故障分析.html.vue")),
   // path: /posts/%E8%BF%90%E7%BB%B4/centos/
   "v-00c20287": defineAsyncComponent(() => import(/* webpackChunkName: "v-00c20287" */"E:/gitlab/myBloggithub/src/.vuepress/.temp/pages/posts/运维/centos/index.html.vue")),
+  // path: /posts/%E8%BF%90%E7%BB%B4/k8s/K8s%E4%B9%8Bpvc.html
+  "v-96f9b37c": defineAsyncComponent(() => import(/* webpackChunkName: "v-96f9b37c" */"E:/gitlab/myBloggithub/src/.vuepress/.temp/pages/posts/运维/k8s/K8s之pvc.html.vue")),
+  // path: /posts/%E8%BF%90%E7%BB%B4/k8s/K8s%E4%B9%8Bservice.html
+  "v-3d6822ac": defineAsyncComponent(() => import(/* webpackChunkName: "v-3d6822ac" */"E:/gitlab/myBloggithub/src/.vuepress/.temp/pages/posts/运维/k8s/K8s之service.html.vue")),
+  // path: /posts/%E8%BF%90%E7%BB%B4/k8s/K8s%E7%BD%91%E7%BB%9C%E7%AF%87.html
+  "v-3461901d": defineAsyncComponent(() => import(/* webpackChunkName: "v-3461901d" */"E:/gitlab/myBloggithub/src/.vuepress/.temp/pages/posts/运维/k8s/K8s网络篇.html.vue")),
+  // path: /posts/%E8%BF%90%E7%BB%B4/k8s/K8s%E9%97%AE%E9%A2%98%E7%AF%87.html
+  "v-663d999e": defineAsyncComponent(() => import(/* webpackChunkName: "v-663d999e" */"E:/gitlab/myBloggithub/src/.vuepress/.temp/pages/posts/运维/k8s/K8s问题篇.html.vue")),
+  // path: /posts/%E8%BF%90%E7%BB%B4/k8s/
+  "v-9744bfb6": defineAsyncComponent(() => import(/* webpackChunkName: "v-9744bfb6" */"E:/gitlab/myBloggithub/src/.vuepress/.temp/pages/posts/运维/k8s/index.html.vue")),
   // path: /posts/%E8%BF%90%E7%BB%B4/devops/Docker%E9%95%9C%E5%83%8F.html
   "v-232184c2": defineAsyncComponent(() => import(/* webpackChunkName: "v-232184c2" */"E:/gitlab/myBloggithub/src/.vuepress/.temp/pages/posts/运维/devops/Docker镜像.html.vue")),
   // path: /posts/%E8%BF%90%E7%BB%B4/devops/Harbor%E9%83%A8%E7%BD%B2.html
@@ -89,16 +99,6 @@ export const pagesComponents = {
   "v-6fce4bfc": defineAsyncComponent(() => import(/* webpackChunkName: "v-6fce4bfc" */"E:/gitlab/myBloggithub/src/.vuepress/.temp/pages/posts/运维/devops/Jenkins部署及使用.html.vue")),
   // path: /posts/%E8%BF%90%E7%BB%B4/devops/
   "v-3616b7b6": defineAsyncComponent(() => import(/* webpackChunkName: "v-3616b7b6" */"E:/gitlab/myBloggithub/src/.vuepress/.temp/pages/posts/运维/devops/index.html.vue")),
-  // path: /posts/%E8%BF%90%E7%BB%B4/k8s/K8s%E4%B9%8Bpvc.html
-  "v-96f9b37c": defineAsyncComponent(() => import(/* webpackChunkName: "v-96f9b37c" */"E:/gitlab/myBloggithub/src/.vuepress/.temp/pages/posts/运维/k8s/K8s之pvc.html.vue")),
-  // path: /posts/%E8%BF%90%E7%BB%B4/k8s/K8s%E4%B9%8Bservice.html
-  "v-3d6822ac": defineAsyncComponent(() => import(/* webpackChunkName: "v-3d6822ac" */"E:/gitlab/myBloggithub/src/.vuepress/.temp/pages/posts/运维/k8s/K8s之service.html.vue")),
-  // path: /posts/%E8%BF%90%E7%BB%B4/k8s/K8s%E7%BD%91%E7%BB%9C%E7%AF%87.html
-  "v-3461901d": defineAsyncComponent(() => import(/* webpackChunkName: "v-3461901d" */"E:/gitlab/myBloggithub/src/.vuepress/.temp/pages/posts/运维/k8s/K8s网络篇.html.vue")),
-  // path: /posts/%E8%BF%90%E7%BB%B4/k8s/K8s%E9%97%AE%E9%A2%98%E7%AF%87.html
-  "v-663d999e": defineAsyncComponent(() => import(/* webpackChunkName: "v-663d999e" */"E:/gitlab/myBloggithub/src/.vuepress/.temp/pages/posts/运维/k8s/K8s问题篇.html.vue")),
-  // path: /posts/%E8%BF%90%E7%BB%B4/k8s/
-  "v-9744bfb6": defineAsyncComponent(() => import(/* webpackChunkName: "v-9744bfb6" */"E:/gitlab/myBloggithub/src/.vuepress/.temp/pages/posts/运维/k8s/index.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"E:/gitlab/myBloggithub/src/.vuepress/.temp/pages/404.html.vue")),
   // path: /posts/
