@@ -16,7 +16,7 @@ tag:
 bossGroup： 负责创建监听连接，默认核心数 * 2， ex: bossGroup = new NioEventLoopGroup();
 workGroup:  负责建立连接，默认核心数 * 2，ex: new NioEventLoopGroup();
 eventExecutorGroup/businessGroup/handlerGroup : 线程数需要自己设置
-```
+``` 
 
 #### 1.1、案例1，不规范使用group/创建group 导致内存溢出
     比如：每次初始化连接都创建线程组，理论上是创建全局线程组，其他的连接复用
