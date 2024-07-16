@@ -2,11 +2,10 @@
 title: 视频识别项目
 icon: fire
 category:
-  - 大模型
+    - 大模型
 tag:
-  - yolo
+    - yolo
 ---
-
 ## 视频识别项目
 
 ### 1、大体结构主要可以分为四个部分，管理端，分析端，yoloV5端，ffmpeg推流端
@@ -32,7 +31,6 @@ python -m pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/s
 
 启动后的展示：
 ![](https://wqknowledge.oss-cn-shenzhen.aliyuncs.com/LLM/videoadmin.png)
-
 
 ### 3、模型分析端pytorch
 
