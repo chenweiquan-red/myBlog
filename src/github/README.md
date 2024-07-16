@@ -10,7 +10,7 @@
 
 <div align="center">
 
-🔭 Take a look on **My blog:[https://carloslopezdev.com/]**
+🔭 Take a look on **My blog:[https://www.wqknowledge.top/]**
 
 🌱 I’m currently learning **Nlp, BigData, Java**
 
@@ -35,7 +35,7 @@
 
 ## 正在进行
 - ~~🍉 努力成为财富自由的废物（2024 目标）~~
-    - 找到一份合适的工作
+  - 找到一份合适的工作
 
 <h2 align="center">💻 Languages, Frameworks & Tools ⚙️</h2>
 <br/>
