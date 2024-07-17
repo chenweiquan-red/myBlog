@@ -2,18 +2,44 @@
 title: 文档
 index: false
 icon: lightbulb
+bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
+bgImageStyle:
+  background-attachment: fixed
 category:
-  - 文档指南
+  - 文档
+tag:
+  - 指南
 ---
 
-## 功能亮点
+## 精选文章
 
-### RocketMQ
+### Java 相关
 
-- [RocketMq技术内幕（底层存储结构，负载均衡，高可用原理）](中间件/rocketmq/README.md)
+- [jvm 基本常识](java/jvm/jvm简介.md)
+- [java 设计模式](../encryptPosts/设计模式/strategy.md)
+- [concurrentHashMap详解](java/collection/concurrentHashMap.md)
 
-- [RocketMq与Kafka选型(两种MQ的对比)](中间件/rocketmq/RocketMq与Kafka选型.md)
+### 中间件相关
 
-### k8s相关内容
+- [netty 初学](中间件/netty/netty初学.md)
+- [netty 进阶](中间件/netty/netty进阶.md)
+- [rocketMQ 进阶](中间件/rocketmq/技术内幕.md)
+- [vsFtp 入门](中间件/utility/vsftp.md)
+- [smart-doc 无侵入文档](中间件/utility/Smart-doc.md)
 
-- [k8s之pvc](运维/k8s/K8s之pvc.md)
+### 大数据相关
+- [CDH6 搭建大数据环境](大数据/离线搭建CDH6.md)
+- [大数据杂谈](大数据/大数据杂谈.md)
+
+
+### 项目相关
+- [offline-map 离线地图](开源项目/OFFLINE-MAP.md)
+- [视频服务器，管理端](开源项目/VEDIO.md)
+
+
+### 运维相关
+
+- [centos 网络故障](运维/centos/centos网络故障分析.md)
+- [devops 之 jenkins](运维/devops/Jenkins部署及使用.md)
+- [devops 之 k8s svc](运维/k8s/K8s网络篇.md)
+- [devops 之 k8s 答疑篇](运维/k8s/README.md)
