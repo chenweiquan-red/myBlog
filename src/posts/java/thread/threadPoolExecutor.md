@@ -26,9 +26,9 @@ github源码地址：https://github.com/chenweiquan-red/cwq-public-knowledge
 - 1、当核心线程数满，阻塞队列满之后，创建的非核心线程执行任务。那么当阻塞队列的任务会被那个线程消费？后续的任务是否会直接被执行还是存放在阻塞队列中？
 - 2、阻塞队列一般使用LinkedBlockingQueue？还是怎么优化？
 
-
-
 ### 2、手动实现阻塞队列功能
+
+待完成...
 
 
 
