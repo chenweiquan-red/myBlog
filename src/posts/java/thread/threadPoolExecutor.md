@@ -1,10 +1,10 @@
 ---
-title: 线程池原理
+title: ThreadPoolExecutor
 icon: fire
 category:
   - java
 tag:
-  - 线程池
+  - 线程
 ---
 ##  线程池
 
