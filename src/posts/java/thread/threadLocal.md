@@ -16,7 +16,7 @@ tag:
 
 
 ### 2、ThreadLocal 使用场景
-- 上下文环境 userContext
+- 上下文环境 userContext(spring requestContextHolder中就使用了ThreadLocal<requestattribute>)
 - 参数传递，隐式
 - 数据库连接，Session会话管理
 
